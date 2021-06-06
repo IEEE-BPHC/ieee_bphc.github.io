@@ -6,12 +6,12 @@ description: Student website of IEEE <br /> and released under the reign of supr
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: BITS Pilani Hyderabad Campus
+city: Hyderabad
+state: Telangana
+zip_code: 500078
+country: India
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -28,7 +28,7 @@ socials:
   Instagram:
   LinkedIn: #https://www.linkedin.com/in/andrew-banchich-a4ba1195
   Twitter: #https://twitter.com/andrewbanchich
-  Facebook:
+  Facebook: https://www.facebook.com/IEEEBPHC
   Slack:
 
 # build settings
