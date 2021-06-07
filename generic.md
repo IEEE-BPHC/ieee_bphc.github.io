@@ -6,7 +6,7 @@ image: assets/images/generic.jpg
 nav-menu: true
 ---
 
-Welcome to IEEE BITS Pilani Hyderabad Chapter. 
+Welcome to IEEE BITS Pilani Hyderabad Chapter. <br />
 Current Postholders <br />
 Chairperson - Sathvik Swaminathan <br />
 Ex-Officio - Jay Karhade<br />
