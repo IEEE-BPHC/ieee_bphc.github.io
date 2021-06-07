@@ -14,5 +14,5 @@ Vice-Chairperson: Shubham Singhla<br />
 Secretary - Garvit Kashyap<br />
 Secretary - Rajiv DVK<br />
 Joint Secretary - Megha Khurana<br />
-Join Secretary - Medini BS<br />
+Join Secretary - Medini NB<br />
 Treasurer - Spandan Pal<br />
