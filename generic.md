@@ -2,7 +2,7 @@
 layout: post
 title: About Us
 description: 
-image: assets/images/generic.jpg
+image: assets/images/generic_1.jpg
 nav-menu: true
 ---
 
