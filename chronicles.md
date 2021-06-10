@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Chronicles
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'We believe sharing knowledge is a key to gaining more knowledge. In this regard, we present to you original and well researched articles on developments in Science and Technology.'
 image: assets/images/landing.jpg
 nav-menu: true
 ---
@@ -9,15 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
+
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -37,6 +29,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
@@ -53,6 +46,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
